@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://verdict-chi-one.vercel.app"><img alt="Open the live app" src="https://img.shields.io/badge/Open_the_live_app-2b59ff?style=for-the-badge&logo=vercel&logoColor=white"></a>
   &nbsp;
-  <a href="https://www.youtube.com/@SuperSharyG63"><img alt="Watch the film on YouTube" src="https://img.shields.io/badge/Watch_the_film-ff0033?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://youtu.be/FGKhSeXxdio"><img alt="Watch the film on YouTube" src="https://img.shields.io/badge/Watch_the_film-ff0033?style=for-the-badge&logo=youtube&logoColor=white"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/supershary"><img alt="Shagun Choudhary on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eicvPjwvc3ZnPg%3D%3D"></a>
 </p>
@@ -24,6 +24,11 @@
   <img src="docs/readme/stress-test.gif" alt="A month of 100 invoices, generated from a seed and decided live into four lanes" width="1012">
 </p>
 <p align="center"><sub>A month of 100 invoices, generated from a seed and decided live. The engine never sees the answer key.</sub></p>
+
+<p align="center">
+  <a href="https://youtu.be/FGKhSeXxdio"><img src="docs/readme/film.jpg" alt="Watch the Verdict film on YouTube" width="640"></a>
+</p>
+<p align="center"><sub><b>Watch the film</b> (1 min 18 s): what Verdict does, the stress test, and a live PDF blocked for fraud.</sub></p>
 
 ## What it is
 
