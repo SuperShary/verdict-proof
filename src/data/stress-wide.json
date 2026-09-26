@@ -1,0 +1,17 @@
+{
+ "ranAt": "2026-09-26T11:11:51.007Z",
+ "seeds": "7919 × 1…1000",
+ "days": [
+  "2026-09-26"
+ ],
+ "months": 1000,
+ "invoices": 100000,
+ "planted": 46329,
+ "caught": 46329,
+ "missed": 0,
+ "wrongOutcome": 0,
+ "clean": 53671,
+ "falseAlarms": 2137,
+ "trapFalseAlarms": 1936,
+ "ms": 11110
+}
