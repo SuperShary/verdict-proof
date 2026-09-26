@@ -261,5 +261,5 @@ public/samples/        the nine sample invoice PDFs
   <br>
   <img src="src/app/icon.svg" width="28" alt=""><br>
   <b>Verdict</b> · every invoice, a reasoned decision<br>
-  <sub>Built by <b>Shagun Choudhary</b> for the Zamp AI Solutions Analyst case study (PS-1)<br><a href="https://verdict-chi-one.vercel.app">Live app</a> · <a href="https://www.youtube.com/@SuperSharyG63">YouTube</a> · <a href="https://www.linkedin.com/in/supershary">LinkedIn</a> · <a href="mailto:workwithshary@gmail.com">workwithshary@gmail.com</a></sub>
+  <sub>Built by <b>Shagun Choudhary</b> for the Zamp AI Solutions Analyst case study (PS-1)<br><a href="https://verdict-chi-one.vercel.app">Live app</a> · <a href="https://youtu.be/FGKhSeXxdio">The film</a> · <a href="https://youtu.be/s4w5fgrPgbU">Meet the builder (50-second intro)</a> · <a href="https://www.linkedin.com/in/supershary">LinkedIn</a> · <a href="mailto:workwithshary@gmail.com">workwithshary@gmail.com</a></sub>
 </p>
