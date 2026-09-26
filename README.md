@@ -3,19 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://verdict-chi-one.vercel.app"><b>Open&nbsp;the&nbsp;live&nbsp;app&nbsp;→</b></a>
-  &nbsp;·&nbsp;
+  <a href="https://verdict-chi-one.vercel.app"><img alt="Open the live app" src="https://img.shields.io/badge/Open_the_live_app-2b59ff?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@SuperSharyG63"><img alt="Watch the film on YouTube" src="https://img.shields.io/badge/Watch_the_film-ff0033?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/supershary"><img alt="Shagun Choudhary on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eicvPjwvc3ZnPg%3D%3D"></a>
+</p>
+
+<p align="center">
   <a href="#how-its-proven">How&nbsp;it's&nbsp;proven</a>
   &nbsp;·&nbsp;
   <a href="#run-it-locally">Run&nbsp;it&nbsp;locally</a>
   &nbsp;·&nbsp;
   <a href="#deploy">Deploy</a>
-</p>
-
-<p align="center">
-  <a href="#under-the-hood"><img alt="Next.js 16" src="https://img.shields.io/badge/Next.js-16-2b59ff?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=3d444d"></a>
-  <a href="#reading-an-eval-on-nine-rendered-pdfs"><img alt="Gemini 3.8 Flash" src="https://img.shields.io/badge/Gemini-3.8%20Flash-2b59ff?style=flat-square&logo=googlegemini&logoColor=white&labelColor=3d444d"></a>
-  <a href="#run-it-locally"><img alt="28 tests passing" src="https://img.shields.io/badge/tests-28%20passing-16a34a?style=flat-square&labelColor=3d444d"></a>
+  &nbsp;·&nbsp;
+  <a href="#under-the-hood">Under&nbsp;the&nbsp;hood</a>
 </p>
 
 <p align="center">
@@ -197,6 +199,12 @@ There is no server database. Each visitor's history lives in their own browser (
 
 ## Under the hood
 
+<p>
+  <img alt="Next.js 16" src="https://img.shields.io/badge/Next.js-16-2b59ff?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=3d444d">
+  <img alt="Gemini 3.8 Flash" src="https://img.shields.io/badge/Gemini-3.8%20Flash-2b59ff?style=flat-square&logo=googlegemini&logoColor=white&labelColor=3d444d">
+  <img alt="28 tests passing" src="https://img.shields.io/badge/tests-28%20passing-16a34a?style=flat-square&labelColor=3d444d">
+</p>
+
 | Layer | Choice |
 |---|---|
 | App | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Motion |
@@ -248,5 +256,5 @@ public/samples/        the nine sample invoice PDFs
   <br>
   <img src="src/app/icon.svg" width="28" alt=""><br>
   <b>Verdict</b> · every invoice, a reasoned decision<br>
-  <sub>Built by <b>Shagun Choudhary</b> for the Zamp AI Solutions Analyst case study (PS-1) · <a href="https://verdict-chi-one.vercel.app">verdict-chi-one.vercel.app</a> · <a href="mailto:workwithshary@gmail.com">workwithshary@gmail.com</a></sub>
+  <sub>Built by <b>Shagun Choudhary</b> for the Zamp AI Solutions Analyst case study (PS-1)<br><a href="https://verdict-chi-one.vercel.app">Live app</a> · <a href="https://www.youtube.com/@SuperSharyG63">YouTube</a> · <a href="https://www.linkedin.com/in/supershary">LinkedIn</a> · <a href="mailto:workwithshary@gmail.com">workwithshary@gmail.com</a></sub>
 </p>
